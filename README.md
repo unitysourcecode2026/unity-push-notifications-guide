@@ -23,21 +23,17 @@ A practical guide to implementing push notifications in Unity using **Firebase C
 
 This repository is organized into individual guides for each topic.
 
-```
-docs/
-│
-├── introduction.md
-├── local-notifications.md
-├── remote-notifications.md
-├── firebase-cloud-messaging.md
-├── android-setup.md
-├── ios-setup.md
-├── unity-csharp-example.md
-├── notification-permissions.md
-├── testing-debugging.md
-├── notification-best-practices.md
-└── troubleshooting.md
-```
+- 📘 [Introduction](docs/introduction.md)
+- 🔔 [Local Notifications](docs/local-notifications.md)
+- 🌐 [Remote Notifications](docs/remote-notifications.md)
+- 🔥 [Firebase Cloud Messaging (FCM)](docs/firebase-cloud-messaging.md)
+- 🤖 [Android Setup](docs/android-setup.md)
+- 🍎 [iOS Setup](docs/ios-setup.md)
+- 💻 [Unity C# Example](docs/unity-csharp-example.md)
+- 🔐 [Notification Permissions](docs/notification-permissions.md)
+- 🧪 [Testing & Debugging](docs/testing-debugging.md)
+- ⭐ [Notification Best Practices](docs/notification-best-practices.md)
+- 🛠️ [Troubleshooting](docs/troubleshooting.md)
 
 ---
 
@@ -124,7 +120,7 @@ Related article:
 
 **How to Add Push Notifications to a Unity Mobile Game (Step-by-Step)**
 
-https://unitysourcecode.net/blog/
+[https://unitysourcecode.net/blog/](https://unitysourcecode.net/blog/add-push-notifications-to-a-unity-mobile-game)
 
 ---
 
